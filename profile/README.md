@@ -1,5 +1,11 @@
-# Peak Labs
+# Dream Labs
 
-Software tools and applications built by [@peaktwilight](https://github.com/peaktwilight).
+Full-service creative agency based in Zürich, Switzerland.
 
-[doruk.ch](https://doruk.ch)
+**Services:**
+- Audio Production (Recording, Mixing, Mastering)
+- Video Production (Music Videos, Commercial Content)
+- Web Development (Websites, Web Apps)
+- Digital Marketing (Social Media, Branding)
+
+[dreamlabs.ch](https://dreamlabs.ch)
