@@ -1,4 +1,4 @@
-# Dream Labs
+# DreamLabs Switzerland
 
 Full-service creative agency based in Zürich, Switzerland.
 
